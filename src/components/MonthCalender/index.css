@@ -1,0 +1,40 @@
+.cal-bg-col {
+  background-color: #42404d;
+  padding: 10px;
+  width: 50%;
+  border-radius: 10px;
+}
+.heading {
+  color: #ffbe38;
+}
+.dates-card {
+  background-color: #343243;
+  padding: 10px;
+  width: 100%;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.month-heading {
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 500;
+}
+.days-list-card {
+  padding: 0px;
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+  padding: 10px;
+  justify-content: center;
+  padding-right: 0px;
+}
+.date-list-card {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+  padding-left: 10px;
+  padding-right: 0px;
+}

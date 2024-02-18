@@ -1,0 +1,22 @@
+.emoji-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.emoji-name {
+  color: #ffffff;
+  font-size: 11px;
+}
+.emojiImg {
+  height: 30px;
+}
+.active-image {
+  height: 40px;
+}
+.emoji-btn {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}

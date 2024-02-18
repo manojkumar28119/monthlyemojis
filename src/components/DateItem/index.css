@@ -1,0 +1,25 @@
+.date-item {
+  background-color: #42404d;
+  list-style: none;
+  width: 35px;
+  height: 20px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  display: flex;
+}
+.date-text {
+  font-size: 10px;
+  color: #ffffff;
+}
+.emoji-img {
+  height: 13px;
+}
+.list-item {
+  list-style: none;
+  margin-right: 7%;
+}
